@@ -1,0 +1,14 @@
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\bin\Debug\net8.0\Soroban.exe
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\bin\Debug\net8.0\Soroban.deps.json
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\bin\Debug\net8.0\Soroban.runtimeconfig.json
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\bin\Debug\net8.0\Soroban.dll
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\bin\Debug\net8.0\Soroban.pdb
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.dll
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\refint\Soroban.dll
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.pdb
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\ref\Soroban.dll
