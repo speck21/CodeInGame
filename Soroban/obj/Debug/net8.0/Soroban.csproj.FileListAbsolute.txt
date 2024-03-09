@@ -12,3 +12,4 @@ C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\o
 C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.pdb
 C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.genruntimeconfig.cache
 C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\ref\Soroban.dll
+C:\Users\steph\OneDrive\Documents\Programming\CodeInGame\ClashPractice\Soroban\obj\Debug\net8.0\Soroban.sourcelink.json

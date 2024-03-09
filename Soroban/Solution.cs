@@ -39,31 +39,47 @@ class Solution
         {
             //bigInteger now contains 0
         }
-        foreach(BigInteger big in digits)
+        
+        //Reverse the order to get starting value
+        digits.Reverse();
+        Dictionary<int, string> dict = new Dictionary<int, string>();
+        dict.Add(1,"*|=*|***");
+        dict.Add(2,"*|=**|**");
+        dict.Add(3,"*|=***|*");
+        dict.Add(4,"*|=****|");
+        dict.Add(6,"|*=*|***");
+        dict.Add(7,"|*=**|**");
+        dict.Add(8,"|*=***|*");
+        dict.Add(9,"|*=****|");
+
+        for(int i=0; i<8; i++)
         {
-            Console.WriteLine(big);
-        }
-        //48590
-        //mod the number and store them, then reverse the array
-        Console.WriteLine(digits);
-        // while((int)n > 0)
-        // {
-        //     int digit = (int) n%10;
-        //     digits.Add(digit);
-        //     //update number
-        //     n/=10;
-        // }
-        // Console.WriteLine(digits.Reverse());
+            foreach(BigInteger digi in digits){
+                dict.TryGetValue((int)digi, out string printNum);
+                foreach(int key in dict.Keys)
+                {
+                    if(digi == key)
+                    {
+                    Console.WriteLine(printNum[i]);
+
+                    }
+                }
+            } 
+        }      
+
+
+
+      
         // Write an answer using Console.WriteLine()
         // To debug: Console.Error.WriteLine("Debug messages...");
         
-        Console.WriteLine("*****");
-        Console.WriteLine("|||||");
-        Console.WriteLine("=====");
-        Console.WriteLine("***|*");
-        Console.WriteLine("*|***");
-        Console.WriteLine("****|");
-        Console.WriteLine("|****");
-        Console.WriteLine("**|**");
+        // Console.WriteLine("*****");
+        // Console.WriteLine("|||||");
+        // Console.WriteLine("=====");
+        // Console.WriteLine("***|*");
+        // Console.WriteLine("*|***");
+        // Console.WriteLine("****|");
+        // Console.WriteLine("|****");
+        // Console.WriteLine("**|**");
     }
 }
