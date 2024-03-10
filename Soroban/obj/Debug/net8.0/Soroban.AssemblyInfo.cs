@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Soroban")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a82b0b18b29fc056d4ca7d6c088be326dc2af379")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b28292d2306271da9077c6ed607a6172411184b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Soroban")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Soroban")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
